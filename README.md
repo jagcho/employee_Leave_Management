@@ -8,7 +8,7 @@ A employee leave Managemnet portal were employee can apply for leave .
 ## Setup
 
 clone the repo employee_Leave_Management to local machine,
-repo link:
+repo link: https://github.com/jagcho/employee_Leave_Management.git
 
 
 
